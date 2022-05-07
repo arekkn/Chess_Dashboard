@@ -4,7 +4,8 @@ The dashboard was created as a team project for the Data Visualization Technique
 # Link: [App](https://arkadiusz-kniaz-projects.shinyapps.io/Chess_Project/)
 
 ## Authors:
+- [Arkadiusz Kniaź](https://github.com/arekkn)
 - [Tymoteusz Barciński](https://github.com/tbarcinski)
 - [Jakub Grunas](https://github.com/grooney39)
-- [Arkadiusz Kniaź](https://github.com/arekkn)
+
 
